@@ -46,15 +46,3 @@ Follow the instructions in the `README.md` file in the `cpp` branch:
 > git checkout cpp
 > cat README.md
 ```
-
-
-# Quickstart with Python
-
-Follow the instructions in the `README.md` file in the `python` branch:
-
-```
-> git clone https://github.com/blue-yonder/tdd_exercise.git
-> cd tdd_exercise
-> git checkout python
-> cat README.md
-```
